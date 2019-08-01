@@ -1,7 +1,7 @@
 {
     "name": "com.ugf.code.extensions",
     "displayName": "UGF.Code.Extensions",
-    "version": "1.0.0",
+    "version": "1.0.0-deprecated",
     "unity": "2019.1",
     "description": "No description.",
     "author": {
